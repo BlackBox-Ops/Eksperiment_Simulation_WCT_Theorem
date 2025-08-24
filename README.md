@@ -15,5 +15,3 @@ Proyek perhitungan dan simulasi **Wilson Central Terminal (WCT)** untuk sistem E
 - Implementasi perhitungan di Octave dan LTSpice.
 
 wine ~/.wine/drive_c/Program\ Files/LTC/LTspiceXVII/XVIIx64.exe
-
->>>>>>> bf427f4 (menambahkan dokumnetasi README.md)
