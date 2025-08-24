@@ -21,8 +21,6 @@ V3 N007 0 0
 * WCT
 * Eksperimen Rangkaian Wilson Central Terminal\nyang akan menjadi referensi dari sistem ECG modern
 * V Right Arm = 6v\nV Left Arm   = 4v\nV Left Leg    = 0 v
-* Node di VRa+ La =
-* Node di VLa+LL =
-* Node di VRa+La =
+* Hasil yang didapatkan : \n1.) Node R1 dan R2 (VRA+LA) didapatkan hasil tegangan dengan nilai 5v\n2.) Node R3 dan R4 (VLA+LL) didapatkan hasil tegangan dengan nilai 2v \n3.) Node R7 dan R8 (VRA+LL) didapatkan hasil tegangan dengan nilai 3v \n \nSedangkan untuk WCT di node R4, R5 dfan R9 karena resistor nya sama yaitu 100k\nmaka WCT nya adalah rata-rata dari VRA_LA + VLA_LL + VRA_LL / 3 = 3.33v
 .backanno
 .end
