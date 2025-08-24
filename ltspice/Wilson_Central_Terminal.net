@@ -1,0 +1,28 @@
+* Z:\mnt\Projects\OctaveProjects\WCT_ECG_Project\ltspice\Wilson_Central_Terminal.asc
+R1 N001 N002 100
+R2 N002 N003 100
+R3 N003 N005 100
+R4 N005 N007 100
+R5 N001 N004 100
+R6 N004 N007 100
+R7 N001 N006 100
+R8 N006 N007 100
+R9 N004 N003 100
+V1 N001 0 6
+V2 N003 0 4
+V3 N007 0 0
+.tran 1m
+* VA
+* VRA
+* VLL
+* VRA+LA
+* VLA+LL
+* VRA+LL
+* WCT
+* Eksperimen Rangkaian Wilson Central Terminal\nyang akan menjadi referensi dari sistem ECG modern
+* V Right Arm = 6v\nV Left Arm   = 4v\nV Left Leg    = 0 v
+* Node di VRa+ La =
+* Node di VLa+LL =
+* Node di VRa+La =
+.backanno
+.end
